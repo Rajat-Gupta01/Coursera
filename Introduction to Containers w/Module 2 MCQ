@@ -1,0 +1,59 @@
+                      Module 2 - Practice Quiz 1: Kubernetes Basics
+
+Question 1: What languages are used to create the container orchestration configuration file?
+Answer: YAML or JSON
+
+Question 2: What is a Kubernetes Cluster?
+Answer: A cluster of nodes that run containerized applications
+
+Question 3: What is Kubernetes?
+Answer: An open-source containerization orchestration platform
+
+Question 4: What are three examples of Kubernetes objects?
+Answers:
+ReplicaSets
+Namespaces
+Pods
+
+Question 5: What is the function of a ClusterIP Service?
+Answer: Provides inter-service communication within the Cluster
+
+
+
+              Module 2 - Graded Quiz: Kubernetes Basics
+
+Question 1: In what three environments can container orchestration be implemented?
+Answers:
+On-premises environments
+Public cloud environments
+Private cloud environments
+
+Question 2: What is the most popular container orchestration tool used as of 2022?
+Answer: Kubernetes
+
+Question 3: What does a control plane do?
+Answer: Maintains the intended Cluster state by making decisions about the Cluster and detecting and responding to events in the Cluster
+
+Question 4: What component of a worker node ensures containers are running as desired?
+Answer: The kubelet
+
+Question 5: What are three Kubernetes capabilities?
+Answers:
+Secret and configuration management
+Storage orchestration
+Automated rollouts
+
+Question 6: What is automated bin packing?
+Answer: A Kubernetes capability that performs container auto-placement based on resource requirements and conditions without sacrificing high availability
+
+Question 7: What is a label?
+Answer: A key-value pair attached to an object
+
+Question 8: What Kubernetes object should be used for stateless applications?
+Answer: Deployment
+
+Question 9: What is Kubectl?
+Answer: Kubernetes command line interface (CLI)
+
+Question 10: What is the function of an External Name Service?
+Answer: Maps to a DNS name
