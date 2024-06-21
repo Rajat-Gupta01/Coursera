@@ -1,0 +1,20 @@
+                  Module 1 - Practice Quiz: Containers and Containerization
+            Practice Quiz. • 15 min. • 5 total points available.5 total points
+
+Question 1: What is a container?
+Answer: A standard unit of software that packages code and all its dependencies.
+
+Question 2: What are some of the traits of containers?
+Answer: Containers save both time and money and improve utilization.
+
+Question 3: What is Docker?
+Answer: An open platform used for developing, shipping, and running applications in containers.
+
+Question 4: What does an image name consist of?
+Answer: The hostname, the repository, and the tag.
+
+Question 5: What are the three parts of the Docker architecture?
+Answers:
+Registry
+Client
+Host
