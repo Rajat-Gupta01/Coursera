@@ -1,0 +1,66 @@
+          Module 3 - Practice Quiz: Managing Applications with Kubernetes
+
+Question 1: What Kubernetes object adds or deletes pods for scaling and redundancy?
+Answer: A ReplicaSet
+
+Question 2: What are the autoscaling types in Kubernetes?
+Answer: Horizontal, Vertical, and Cluster
+
+Question 3: Which three statements about ConfigMaps are correct?
+Answers:
+Data stored in a ConfigMap must not exceed one megabyte.
+A ConfigMap object stores non-confidential data in key-value pairs.
+A ConfigMap provides configuration data to pods and deployments.
+
+Question 4: What is Service binding?
+Answer: The process needed to consume external Service or backing Services, including REST APIs, databases, and event buses in your applications
+
+Question 5: What rollout command do you use to implement a rollback to a previous version in Kubernetes?
+Answer: An ‘undo’ command
+
+
+            Module 3 - Graded Quiz: Managing Applications with Kubernetes
+
+Question 1: How do you create a ReplicaSet from scratch?
+Answer: Apply a YAML file with the ‘kind’ attribute set to ‘ReplicaSet’.
+
+Question 2: What Kubernetes object adds or deletes pods for scaling and redundancy?
+Answer: A ReplicaSet
+
+Question 3: Which Kubernetes autoscaler type scales the Cluster?
+Answer: Cluster Autoscaler (CA)
+
+Question 4: How do you prepare your application to enable rolling updates?
+Answer: Add liveness and readiness probes to deployments.
+
+Question 5: Which rolling update types ensure 100% app availability?
+Answer: One-at-a-time updates and rollbacks ensure 100% app availability.
+
+Question 6: What does a ConfigMap do?
+Answer: Provides variables for your application
+
+Question 7: What are three ways to create a ConfigMap?
+Answers:
+By using an existing property or ‘key’ = ‘value’ file
+By providing a ConfigMap YAML descriptor file
+By using string literals
+
+Question 8: What are three ways to create a Secret?
+Answers:
+By using a string literal
+By using environment variables
+By using volume mounts
+
+Question 9: What does Service binding do?
+Answer: Manages configuration and credentials for back-end Services while protecting sensitive data
+
+Question 10: What are the three required steps to bind the IBM Cloud Service to your Cluster?
+Answers:
+Configure your app to access the credentials.
+Bind the Service to your Cluster to create credentials.
+Provision an instance of the Service.
+
+
+
+
+
