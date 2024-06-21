@@ -18,3 +18,40 @@ Answers:
 Registry
 Client
 Host
+
+                  Module 1 - Graded Quiz: Containers and Containerization
+
+Question 1: Do containers have to be on a specific operating system or platform?
+Answer: No, containers work on many types of operating systems and platforms.
+
+Question 2: How are digital containers like shipping containers?
+Answer: Container size and specs are standardized, which makes them easier to move around.
+
+Question 3: What applications are a good fit for Docker?
+Answer: Applications that require flexible scaling and portability.
+
+Question 4: What are three parts of Docker’s underlying technology?
+Answers:
+Linux kernel features
+Namespaces
+The Go programming language
+
+Question 5: What Docker features create a container image?
+Answer: The build command and a Dockerfile.
+
+Question 6: What are the steps used to create and run containers?
+Answer: Create a Dockerfile, use it to create a container image, and then use the container image to create a running container.
+
+Question 7: What is the function of the Docker ‘run’ command?
+Answer: Creates a container from an image.
+
+Question 8: What is a Docker container?
+Answer: A runnable instance of an image.
+
+Question 9: What are volumes and bind mounts used for in Docker?
+Answer: Persisting data.
+
+Question 10: What does the Docker client-server architecture provide?
+Answer: An application environment
+
+
