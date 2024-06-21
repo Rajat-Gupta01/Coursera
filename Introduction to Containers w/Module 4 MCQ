@@ -1,0 +1,75 @@
+Question 1: What are three true statements about Red Hat OpenShift?
+Answers:
+Red Hat OpenShift provides full-stack automated operations and self-service provisioning for developers to efficiently move ideas from development to production.
+Red Hat OpenShift is a consistent application platform used to manage hybrid, multi-cloud, and edge deployments.
+Red Hat OpenShift provides additional tooling around the complete lifecycle of applications, from Build to CI/CD, to monitoring and logs.
+
+Question 2: What are three examples of Build input sources?
+Answers:
+External artifacts
+Input Secrets
+Inline Dockerfile definitions
+
+Question 3: What do Operators provide?
+Answer:  Integration with APIs and CLI tools
+
+Question 4: What is a valid Istio feature?
+Answer: Istio provides Service communication metrics for basic Service monitoring needs: latency, traffic, errors, and saturation.
+
+Question 5: What are three functions of a service mesh?
+Answers:
+Provides Service behavior metrics for optimization
+Encrypts traffic between Services
+Manages traffic between Services
+
+                              Module 4 - Graded Quiz: The Kubernetes Ecosystem
+
+
+Question 1: What strategy was Red Hat OpenShift designed for?
+Answer: A hybrid-cloud strategy.
+
+Question 2: Which three statements are true?
+Answers:
+The oc lets you script OpenShift operations.
+The oc lets you manage projects during restricted bandwidth or availability of the web console.
+The oc lets you work directly with project source code using command script. 
+
+Question 3: What are three added features that OpenShift provides?
+Answers:
+Good networking solutions out of the box
+Better user experience
+Better management through image streams
+
+Question 4: What are the three Build triggers used in OpenShift?
+Answers:
+Configuration change
+Image change
+Webhook
+
+Question 5: What are the two features of an ImageStream?
+Answers:
+Provides a trigger capability when a new version of an image is available
+Creates and updates container images
+
+Question 6: What three processes are performed by the Operator Framework tool set?
+Answers:
+Package
+Testing
+Coding
+
+Question 7: What are the three features of Custom Resource Definitions (CRDs)?
+Answers:
+Extend Kubernetes functionality
+Can be engaged with kubectl
+Make Kubernetes API more modular
+
+Question 8: What packages, deploys, and manages native apps in Kubernetes?
+Answer: An Operator
+
+---Question 9: In Istio, what handles communication between services?
+Answer: The proxy server, 
+The control plane,
+Environmental changes
+
+Question 10: What provides traffic management to control the flow of traffic between Services?
+Answer: A service mesh
