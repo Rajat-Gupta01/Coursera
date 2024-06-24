@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="https://unpkg.com/@highlightjs/cdn-assets@10.7.1/styles/default.min.css">
   </head>
   <body>
+
     <img src="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-CD0131EN-SkillsNetwork/labs/project/images/IDSNlogo.png" width="200" height="200">
     <h1>Part 1 - GitHub UI</h1>
     <p><strong>Estimated Time:</strong> 60 minutes</p>
